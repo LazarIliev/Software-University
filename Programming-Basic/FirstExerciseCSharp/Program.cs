@@ -10,6 +10,7 @@ namespace FirstExerciseCSharp
     {
         static void Main()
         {
+            //new change
             int n = int.Parse(Console.ReadLine());
             Console.WriteLine("{0}",new string('*',n));
 
